@@ -9,5 +9,5 @@ Regarding MS-DOS 5.0, 6.22, MS-DOS BOOT FROM USB is the only program that can fu
 Important:
 To boot from a bootable MS-DOS flash drive created in MS-DOS BOOT FROM USB, on computers with UEFI, you need to disable Secure Boot.
 
-You can download the utility here: http://d96179xw.beget.tech/counter.php?book=MBUE
-The official page of the program: http://xn----htbwkmd.xn--p1ai/MBFU/
+You can download the utility here: https://sementsul.ru/?getsoft=lo72b6347
+The official page of the program: http://sementsul.ru/
