@@ -9,20 +9,20 @@ Regarding MS-DOS 5.0, 6.22, MS-DOS BOOT FROM USB is the only program that can fu
 Important:
 To boot from a bootable MS-DOS flash drive created in MS-DOS BOOT FROM USB, on computers with UEFI, you need to disable Secure Boot.
 
-You can download the utility here: https://sementsul.ru/?getsoft=lo72b6347
-The official page of the program: http://sementsul.ru/
+You can download the utility here: https://sementsul.ru/?getsoft=lo72b6347<br />
+The official page of the program: http://sementsul.ru/<br />
 
 
-Launching MBFU without preliminary download, method for win8 and above
-Actions:
-1) Disable antivirus(es)
-2) Run the command line as administrator.
-3) Enter the first command in the terminal:
-powershell -command "(New-Object Net.WebClient).DownloadFile(' https://github.com/ctv-software/webdos622/raw/main/MBFU-BETA-UP.exe ', '%temp%\MBFU-BETA-UP.exe')"
+Launching MBFU without preliminary download, method for win8 and above<br />
+Actions:<br />
+1) Disable antivirus(es)<br />
+2) Run the command line as administrator.<br />
+3) Enter the first command in the terminal:<br />
+powershell -command "(New-Object Net.WebClient).DownloadFile(' https://github.com/ctv-software/webdos622/raw/main/MBFU-BETA-UP.exe ', '%temp%\MBFU-BETA-UP.exe')"<br />
 
-and press Enter, wait for the process to complete.
-4) Paste the second command into the terminal:
-%temp%\MBFU-BETA-UP.exe
+and press Enter, wait for the process to complete.<br />
+4) Paste the second command into the terminal:<br />
+%temp%\MBFU-BETA-UP.exe<br />
 
-and press Enter, wait for the process to complete.
-Then the MBFU interface will open for you
+and press Enter, wait for the process to complete.<br />
+Then the MBFU interface will open for you<br />
